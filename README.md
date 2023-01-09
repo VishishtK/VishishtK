@@ -1,8 +1,9 @@
 - 👋 Hi, I’m Vishisht Khilariwal(@VishishtK)
 - University Of Florida
   Master of Science in Computer Science December 2022
-    •Machine Learning
+    •Cloud Computing
     •Distributed Systems
+    •Computer Security
 - IIIT Delhi
   Bachelor of Science in Computer Science May 2018
     •Machine Learning
